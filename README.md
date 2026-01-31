@@ -82,12 +82,8 @@ Filtered tweets containing **“Microsoft”** keyword to analyze targeted brand
 
 ## 📈 Visualization Suite
 
-### Charts Generated
-| File / Chart | Type | Insight |
-|------------|------|---------|
-| sentiment_bar.png | Bar Chart | Overall sentiment distribution |
-| brand_pie.png | Pie Chart | Microsoft sentiment share |
-| dataset_shape.png | Info Chart | Dataset cleaning impact |
+<img width="786" height="592" alt="pie chart (microsoft)" src="https://github.com/user-attachments/assets/81978ee0-11f2-47be-a05d-71a315e055c7" />
+
 
 ---
 
