@@ -44,6 +44,6 @@ It includes data analysis, preprocessing, model training, and evaluation.
 ## How to Run
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
-git clone https://github.com/your-username/repository-name.git
-cd repository-name
+git clone https://github.com/omtecno/PRODIGY_DS04/tree/main
+
 jupyter notebook
