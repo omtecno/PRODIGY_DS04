@@ -46,4 +46,4 @@ It includes data analysis, preprocessing, model training, and evaluation.
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 git clone https://github.com/omtecno/PRODIGY_DS04/tree/main
 
-jupyter notebook
+jupyter notebook dstask04.ipynb
